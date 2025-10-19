@@ -1,0 +1,7 @@
+fastapi
+pydantic
+requests
+uvicorn
+os
+typing
+datetime
